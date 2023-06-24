@@ -1,2 +1,3 @@
-# Game-Boy-Vita-VPK
+# Game Boy Vita VPK
+
 Play Game Boy game directly on your Livearea
