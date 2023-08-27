@@ -9,7 +9,7 @@ ___Original emu file is not mine, i forgot the author of this great app : great 
 
 ![PICTURE](https://github.com/chronoss09/GameBoy-Bulle-Vita/blob/main/Screenshot/2023-05-08-011133-323325.jpg)
 
-If you want offer me something...  
+If you want to offer me something...  [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss)
 
 
 
