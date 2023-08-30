@@ -33,7 +33,7 @@ If you want to offer me something...  [![Buy me a coffee](https://img.shields.io
 
 _With this script, you can create your own GB/GBC game bulle for your PSVITA, just read and do it...(french script)_
 
-![picture](https://github.com/chronoss09/GameBoy-Bulle-Vita/blob/main/Capture.PNG)
+![picture](https://github.com/chronoss09/Retro-Bulle-Vita/blob/main/GameBoy%20Vita%20v1.0.PNG)
 
 Get it on [release page](https://github.com/chronoss09/GameBoy-Bulle-Vita/releases/tag/create_gb)
 
