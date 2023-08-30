@@ -12,6 +12,8 @@ _I modded a script of Markus95 to make it easy, u can create __Nintendo 64, Supe
 
 ![PICTURE](https://github.com/chronoss09/Retro-Bulle-Vita/blob/main/Capture.PNG)
 
+_Thanks to Rinnegatamante for DaedalusX64 for the Vita, thanks to Markus95 for the original script. To the guys working to bring Retroarch to the Playstation Vita._
+
 Get it on [release page](https://github.com/chronoss09/GameBoy-Bulle-Vita/releases/tag/retro_builder)
 
 
