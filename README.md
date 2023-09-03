@@ -7,7 +7,7 @@ _Play your favorite Nintendo 64 and Super Nintendo directly on your Livearea..._
 
 ![PICTURE](https://github.com/chronoss09/Retro-Bulle-Vita/blob/main/2015-01-25-230416-616770.jpg)
 
-# Retro Bulle Builder
+# Retro Bulle Builder 2.0
 _I modded a script of Markus95 to make it easy, u can create __Nintendo 64, Super Nintendo__ bulle. I added a __GB/GBC__ too on the script (french script)_
 
 ![PICTURE](https://github.com/chronoss09/Retro-Bulle-Vita/blob/main/2.0.PNG)
